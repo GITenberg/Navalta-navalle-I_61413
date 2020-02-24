@@ -1,5 +1,5 @@
 _repo: Navalta-navalle-I_61413
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hämeen-Anttila, Väinö
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hedin, Sven Anders
@@ -25,6 +28,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Sven_Hedin
     - https://en.wikipedia.org/wiki/Sven_Hedin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61413#Navalta-navalle-I
 gutenberg_issued: '2020-02-15'
 gutenberg_type: Text
 identifiers:
